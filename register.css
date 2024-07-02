@@ -1,0 +1,13 @@
+body{
+    font-family: 'Grenze Gotisch', cursive;
+    background-image:url("Caribbean-beach.jpg");
+    font-style: italic;
+    font-size: 35px;
+    font: outline;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:80%;
+    width:70%;
+    color: rgb(red, green, blue);
+    background-attachment: fixed;
+}

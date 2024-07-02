@@ -1,0 +1,68 @@
+<html>
+    <head><title>registration</title>
+    <link rel="stylesheet" type="text/css" href="styleform.css">
+    </head>
+    <body><center>
+        <div class="container">
+            <div class="header">
+               <h1>REGISTRATION FORM</h1>
+	</div>
+
+	<form>
+		<div>
+			<label for="username">Username:</label>
+			<input type="text" id="username" name="username" placeholder="Enter your username" required>
+		</div><br>
+		<div>
+			<label for="Email id">Email id:</label>
+			<input type="email" name="email" placeholder="enter your email id" required>
+		</div><br>
+		<div>
+			<label for="Password">Password:</label>
+			<input type="Password" name="Password" placeholder="Create your Password" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}" title="Must contain at least one number and one uppercase and lowercase letter, and at least 8 or more characters" required>
+		</div><br>
+		<div>
+			<label>Gender:</label>
+			<input type="radio" name="gender" required>Male
+			<input type="radio" name="gender" required>Female
+			<input type="radio" name="gender" required>Transgender
+		</div><br>
+		<div>
+			<label for="Mobile Number">Mobile Number:</label>
+			<select>
+				<option>+91</option>
+				<option>+92</option>
+				<option>+93</option>
+				<option>+94</option>
+				<option>+95</option>
+				<option>+96</option>
+				<option>+97</option>
+				<option>+98</option>
+				<option>+99</option>
+			</select>
+			<input type="phoneCode" length="10" name="phonenumber" required>
+		</div><br>
+		<div>
+			<label for="Verification id">Verification id</label>
+			<input type="file" name="varification" placeholder="file" required="verification">
+		</div><br>
+		<div>
+			<label for="Starting Date">Starting Date</label>
+			<input type="date" name=" starting_date" placeholder="starting date">
+		</div>
+		<div>
+			<label for="Ending Date">Ending Date</label>
+			<input type="date" name="ending_date" placeholder="ending date">
+		</div><br>
+		<a href="login.html" class="button"><input type = "submit"></a><br>
+		<p> Already registered ?</p>
+        <a href="login.html">LOGIN here</a>
+
+               
+</form>
+
+</body>
+</html>
+
+                
+

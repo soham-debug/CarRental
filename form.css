@@ -1,0 +1,17 @@
+body{
+    font-family: 'Antic Slab', serif;
+
+    font-family: 'Caveat', cursive;
+
+    font-family: 'Grenze Gotisch', cursive;
+    background-image:url("lol.jpg");
+    font-style: italic;
+    font-size: 35px;
+    font: outline;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:70%;
+    width:50%;
+    color: black;
+
+}

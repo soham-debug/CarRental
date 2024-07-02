@@ -1,0 +1,21 @@
+#feed{
+    
+
+
+
+    
+    font-size: 60px;
+    background-image: url("car6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: padding-box;
+    padding-top: 6%;
+    color: white;
+
+
+/*.header{
+    font-size: 70px;
+    height: 100%;
+    width: 90%;
+    margin-top: 5%;
+}

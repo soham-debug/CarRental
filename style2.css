@@ -1,0 +1,27 @@
+body{
+    font-family: 'Playball', cursive;
+    background-image: url(sdk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    background-image: linear-gradient(gray,white,pink);
+}   
+#pm{
+color: black;
+font-size: x-large;
+text-align: left;
+word-wrap: break-word;
+    
+}
+.sm{
+    color: deeppink;
+    font-size: xx-large;
+    font-weight: lighter;
+}
+.gm{
+    margin: auto;
+    border-style: double;
+    border-style: inset;
+    border-color: burlywood;
+    border-bottom-left-radius: 10px;
+}

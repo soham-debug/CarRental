@@ -1,0 +1,16 @@
+body{
+    background-image:url("imag.webp");
+    font-style: italic;
+    font-size: 40px;
+    font: outline;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:94%;
+    color: rgb(156, 16, 37);
+    position: relative;
+    padding-left: 1%;
+    width: 1000px;
+    top: 6%;
+    left: 27%;
+
+}

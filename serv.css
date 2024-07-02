@@ -1,0 +1,41 @@
+body{
+    font-family: 'Antic Slab', serif;
+
+    font-family: 'Grenze Gotisch', cursive;
+    background-color: lightgray;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:#000;
+    font-size: xx-large;
+}
+.img{
+    display: inline-block;
+}
+
+.st{
+    height: 250%;
+    width: 30%;
+ }
+
+ #hed{
+    align-content: center;
+    font-family: cursive;
+    color: olive;
+    margin-left: 190px;
+ }
+
+
+ .btn{
+border-image: space;
+
+	
+}
+
+.btn:hover{
+
+    border: 4px inset transparent;
+    box-shadow: 10px 15px 5px black;
+
+	
+}
